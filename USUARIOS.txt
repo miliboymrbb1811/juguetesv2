@@ -1,0 +1,7 @@
+superusuario=admin
+vendedor=vendedor
+vendedor1=vendedordos
+
+QUITAR NUMERO DE TIENDA---------------
+MANEJAR 2 PREICO PRECIO DE VENTA Y PRECIO D ECOMPRA
+PRECIO X CAJA 
